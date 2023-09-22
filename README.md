@@ -8,5 +8,5 @@
   <li>git add <archivo>: Agregar antes de hacer un commit el archivo</li>
   <li>git commit -m "Mensaje del cambio": Me permite hacer anotaciones del cambio realizado</li>
   <li>git push: Agregar todos los cambios ya commiteados (primero agregar la rama)</li>
-  <li>mkdir <code><nombre></code>: Crear directorio con el nombre deseado</li>
+  <li><code>mkdir nombre</code>: Crear directorio con el nombre deseado</li>
 </ul>

@@ -8,7 +8,6 @@
   <li><code>git add archivo</code>: Agregar antes de hacer un commit el archivo</li>
   <li><code>git commit -m "Mensaje del cambio"</code>: Me permite hacer anotaciones del cambio realizado</li>
   <li><code>git push</code>: Agregar todos los cambios ya commiteados (primero agregar la rama)</li>
-  <li><code>mkdir nombre</code>: texto</li>
   <li><code>git config --global user.name "Tu Nombre" </code>: Autenticarse</li>
   <li><code>git config --global user.email "tu@email.com"</code>: Permite clonar el repositorio remoto.</li>
   <li><code>git status</code>: Muestra el estado de los cambios del repositorio local.</li>
